@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on FEQAB<br>👯 I’m looking to collaborate on my Projects<br>🌱 I’m currently learning C++ and Java<br>⚡ Fun fact - I am very Tall
-
+🔭 I’m currently working on Gibberish<br>👯 I’m looking to collaborate on my Projects<br>🌱 I’m currently learning C++ and Java<br>⚡ Fun fact - I am very Tall
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100087995763221) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC6tfD5NgAB7eLGw1wkXqJOA) 
